@@ -53,7 +53,7 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Work Day Scheduler](https://github.com/xndroli/work-day-scheduler/blob/f2520d712c7229b2c6901600b6f2ace2b68785b0/assets/images/05-third-party-apis-homework-demo.gif"Work Day Scheduler Mock-up Gif")
+![Work Day Scheduler](https://github.com/xndroli/work-day-scheduler/blob/f2520d712c7229b2c6901600b6f2ace2b68785b0/assets/images/05-third-party-apis-homework-demo.gif)"Work Day Scheduler Mock-up Gif")
 
 ## Link to Deployed Application
 
