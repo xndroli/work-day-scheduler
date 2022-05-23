@@ -10,7 +10,7 @@ $(document).ready(function () {
         now24 = 13;
     }
 
-    // Display current date
+    // Display now
     const currentDate = $('#currentDay');
     currentDate.text(now);
 
@@ -26,9 +26,9 @@ $(document).ready(function () {
             document.getElementById(i.toString()).classList.add('future');
         }
     }
-    // Local Storage Feature
+    // Save tasks for hour to local storage
 
-    function saveText() {
+    function saveHour() {
         var hr9 = document.getElementById('9').value;
         localStorage.setItem('text9', hr9);
         var hr10 = document.getElementById('10').value;
@@ -49,7 +49,7 @@ $(document).ready(function () {
         localStorage.setItem('text17', hr17);
     };
 
-     // Display saved tasks
+    // Display saved tasks for hour
     var saved9 = localStorage.getItem('text9');
     document.getElementById('9').value = saved9;
     var saved10 = localStorage.getItem('text10');

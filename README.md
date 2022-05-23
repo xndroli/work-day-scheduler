@@ -53,11 +53,11 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Work Day Scheduler](https://github.com/xndroli/portfolio/blob/08a5547f461d045a18944aa7a713356879b2ea39/assets/images/portfolio_screenshot.png "Work Day Scheduler Mock-up Gif")
+![Work Day Scheduler](https://github.com/xndroli/work-day-scheduler/blob/f2520d712c7229b2c6901600b6f2ace2b68785b0/assets/images/05-third-party-apis-homework-demo.gif"Work Day Scheduler Mock-up Gif")
 
 ## Link to Deployed Application
 
-[Deployed Application](https://xndroli.github.io/horizon-code-refactor/)
+[Deployed Application](https://xndroli.github.io/work-day-scheduler/)
 
 ---
 © 2022 xndroli. Confidential and Proprietary. All Rights Reserved.
