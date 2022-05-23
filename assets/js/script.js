@@ -27,8 +27,7 @@ $(document).ready(function () {
         }
     }
     // Save tasks for hour to local storage
-
-    function saveHour() {
+    $('.saveBtn').on('click', function() {
         var hr9 = document.getElementById('9').value;
         localStorage.setItem('text9', hr9);
         var hr10 = document.getElementById('10').value;
@@ -47,7 +46,7 @@ $(document).ready(function () {
         localStorage.setItem('text16', hr16);
         var hr17 = document.getElementById('17').value;
         localStorage.setItem('text17', hr17);
-    };
+    });
 
     // Display saved tasks for hour
     var saved9 = localStorage.getItem('text9');
